@@ -1,2 +1,3 @@
 # Reinforcement-Learning-Algorithms
-a repo containing all RL algorithms that I coded and tested from scratch
+
+a repo containing all RL algorithms that I coded from scratch and tested on different OpenAi games : GridWorld, CartPole, LunarLander, ...
